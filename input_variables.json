@@ -1,0 +1,1 @@
+{"age":"int64","gender":"int64","height_cm":"float64","weight_kg":"float64","bmi":"float64","goal":"int64","medical_conditions":"int64","allergies":"int64","menstrual_cycle_regular":"int64","cycle_length_days":"int64","avg_water_intake":"float64","avg_sleep_hours":"float64","avg_daily_steps":"int64","avg_heart_rate":"int64","avg_calorie_burned":"float64","category":"int64"}
