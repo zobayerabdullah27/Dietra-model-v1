@@ -71,7 +71,7 @@ import pickle
 import pandas as pd
 
 # Load the trained model
-with open("nutrition_model.pkl", "rb") as f:
+with open("dietra_catboost_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # Example input (must match schema and encoding)
